@@ -1,0 +1,17 @@
+html .handsfree-debugger {
+  width:1000px;
+  position:fixed;
+  top:100px;
+  display:block
+}
+
+html .handsfree-canvas-video{
+  opacity: 0.1;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
